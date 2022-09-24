@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 
-import 'Login.dart';
+import 'ui/screens/Login.dart';
 
 class second extends StatefulWidget {
   const second({Key? key}) : super(key: key);
